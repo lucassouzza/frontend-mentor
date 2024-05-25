@@ -1,0 +1,55 @@
+body,html{
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    display: inline;
+}
+    
+.attribution a { color: hsl(228, 45%, 44%); }
+
+#qrcode{
+    height: 50vh;
+    width: 50vh;
+    border-radius: 15px;
+}
+
+#content{
+    position: relative;
+    padding: 10px;
+    background-color: white;
+    margin: 10vh;
+    height: 73vh;
+    width: 50vh;
+    border-radius: 15px;
+    
+}
+
+#txtPrinc{
+    text-decoration:solid;
+    font-family: arial black;
+    margin: 2vh;
+    text-align: center;
+}
+
+#txtSecun{
+    text-decoration:solid;
+    color: #b5b5b5;
+    font-family: arial;
+    font-size: 2.vh;
+    text-align: center;
+}
+
+#rodape {
+    font-size: 10px;
+    color: blue;
+    margin-left: 5vh;
+    bottom: -3vh;   
+    position:absolute;
+    text-align: center;
+}
