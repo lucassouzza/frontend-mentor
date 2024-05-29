@@ -1,0 +1,215 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #f0f0f0; /* Fundo para visualização */
+}
+
+.content {
+    text-align: center; /* Centraliza o texto dentro do conteúdo */
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.attribution {
+    margin-top: 9.3vh;
+    font-size: 11px;
+    text-align: center;
+    position: relative;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+#txth1{
+    color: #511F51;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 28vh;
+    margin-top: 10vh;
+    font-weight: bold;
+    display: inline-block;
+    text-align: left;
+}
+
+#txtPrinc{
+    color: #92858F;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+
+.stars{
+   float: left;
+   margin-right: 1vh;
+}
+
+#p-img{
+    float: right;
+}
+
+#space-txt{
+    margin-right: 4vh;
+}
+
+.notas{
+    margin-left: -35vh;
+}
+
+#box-av{
+    float: right;
+    margin-right: 50vh;
+    width: 80vh;
+}
+
+.ft_av{
+    margin-top: 4vh;
+    margin-left: 3vh;
+    margin-bottom: 0;
+    border-radius: 50%;
+    width: 5vh;
+}
+
+.txt_av{
+    font-size: 13px;
+    margin-top: 3vh;
+    margin-left: 3vh;
+    margin-bottom: 2vh;
+    margin-right: 3vh;
+}
+
+.txt_nome{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-style:inherit;
+    display: inline;
+    float: right;
+    margin-right: 40%;
+    margin-top: 4vh;
+    font-size: 12px;
+}
+
+.txt_cargo1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-style:inherit;
+    display: inline;
+    float: right;
+    color: #C874A8;
+    margin-top: -2.3vh;
+    margin-right: 36%;
+    font-size: 12px;
+}
+
+.txt_cargo2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-style:inherit;
+    display: inline;
+    float: right;
+    color: #C874A8;
+    margin-top: -2.3vh;
+    margin-right: 38%;
+    font-size: 12px;
+}
+
+.txt_cargo3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-style:inherit;
+    display: inline;
+    float: right;
+    color: #C874A8;
+    margin-top: -2.3vh;
+    margin-right: 38%;
+    font-size: 12px;
+}
+
+#av1{
+    background-color: #F7F2F8;
+    float: right;
+    padding: 2vh;
+    border-radius: 1vh;
+    margin-top: 14vh;
+    width: 50vh;
+    color: rgb(86, 21, 86);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2vh;
+    margin-right: 30vh;
+}
+
+#av2{
+    background-color: #F7F2F8;
+    float: right;
+    padding: 2vh;
+    border-radius: 1vh;
+    margin-top: 2vh;
+    width: 50vh;
+    color: rgb(86, 21, 86);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2vh;
+    margin-right: 24vh;
+}
+
+#av3{
+    background-color: #F7F2F8;
+    float: right;
+    padding: 2vh;
+    border-radius: 1vh;
+    margin-top: 2vh;
+    width: 50vh;
+    color: rgb(86, 21, 86);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 2vh;
+    margin-right: 18vh;
+}
+
+#box-coments{
+    margin-top: 7vh;
+    margin-left: 10vh;
+}
+
+#cx1{
+    background-color: #521E4F;
+    color: white;
+    width: 40vh;
+    height: 30vh;
+    display: inline-block;
+    border-radius: 1vh;
+    margin-left: 10vh;
+    margin-top: 7vh;
+    position: relative;
+}
+
+#cx2{
+    background-color: #521E4F;
+    color: white;
+    width: 40vh;
+    height: 30vh;
+    display: inline-block;
+    border-radius: 1vh;
+    margin-left: 3vh;
+    top: 3vh;
+    position: relative;
+}
+
+#cx3{
+    background-color: #521E4F;
+    color: white;
+    width: 40vh;
+    height: 30vh;
+    display: inline-block;
+    border-radius: 1vh;  
+    margin-left: 3vh;
+    top: 6vh;
+    position: relative;
+}
